@@ -1,0 +1,18 @@
+
+.slider-container>* {
+    scroll-snap-align: var(--swiffy-slider-snap-align);
+    position: relative;
+    width: 83%;
+    height: 100%;
+}
+
+
+
+.ratio>* {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 14px;
+    height: 100%;
+}

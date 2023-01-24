@@ -1,0 +1,51 @@
+.items a {
+    color: black;
+    text-decoration: none;
+    /* margin-right: 18px; */
+    display: flex;
+    margin-left: 50px;
+    font-size: 18px;
+}
+
+button.btn.btn-outline.button-nav  {
+    padding: 12px 46px;
+    border: 1px solid #3fba96;
+    border-radius: 4px;
+    background-color: #3fba96;
+    font-size: 18px;
+    color: white;
+    line-height: 18px;
+    font-weight: 400;
+}
+button.btn.btn-outline.button-nav:hover {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #3fba96 ;
+    color:  #3fba96
+}
+.w-button {
+    display: inline-block;
+    padding: 9px 15px;
+    background-color: #3898EC;
+    color: white;
+    border: 0;
+    line-height: inherit;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 0;
+}
+.brand{
+    color:  #3fba96;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px red;
+}
+.items a:hover{
+    color:  #3fba96;
+   border-bottom: 5px solid #3fba96;;
+} 
+
+.aca{
+    border-bottom: 5px solid #3fba96;
+  
+}

@@ -1,0 +1,22 @@
+.word-d{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.heading-2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 48px;
+    line-height: 140%;
+}
+
+.box {
+    height: 200px;
+    width: 510px;
+    /* border: 2px solid black; */
+    margin: 2px;
+    box-shadow: 129px 88px 205px -21px rgba(0,0,0,0.43);
+    -webkit-box-shadow: 129px 88px 205px -21px rgba(0,0,0,0.43);
+    -moz-box-shadow: 129px 88px 205px -21px rgba(0,0,0,0.43);
+    border-radius: 5px;
+}
